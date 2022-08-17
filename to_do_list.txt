@@ -6,6 +6,14 @@ Tópicos
   Encontrar fontes Confiaveis
   Formar uma estrutura e um roteiro dos tópicos que vamos abordar
   
+  Pesquisar sobre os pros e contras do desenv. incremental
+  Pesquisar sobre os pros e contras do desenv em cascata
+  pesquisar sobre os pros e contras do desenv gup
+  
+  Montar argumentos contra os  outros métodos
+  montar argumentos á favor da eng de software de reuso
+  montar argumentos pra defesa contra outras eng.
+  
  Feito //Aqui marcar o que já foi feito
  
  
