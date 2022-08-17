@@ -1,0 +1,12 @@
+# TO DO LIST #
+  - Aqui vou deixar anotado o que falta pra fazermos
+ 
+Tópicos
+  Pesquisar sobre os prós e contras da Eng. de Software de Reuso
+  Encontrar fontes Confiaveis
+  Formar uma estrutura e um roteiro dos tópicos que vamos abordar
+  
+ Feito //Aqui marcar o que já foi feito
+ 
+ 
+  
