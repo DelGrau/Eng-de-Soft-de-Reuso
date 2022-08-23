@@ -1,0 +1,72 @@
+Por que usar?
+
+    Facilidade
+    Agilidade
+    Rapidez no desenvolvimento
+    Confiabilidade
+    Custo benefício
+
+Por que não usar?
+
+    Maior custo de Manutenção
+    Falta de ferramentas de suporte
+    Sindrome do "Não fui eu"
+    falta de compatibilidade dos códigos reusados
+    Adaptar e atualizar os compunentes utilizados
+    Dificuldade na gerência das versões
+    Se um software tem requisitos muito rigorosos é imposivel usar estratégias de Reuso com eficiência
+    
+Conceitos e técnicas utilizadas para o reuso de software
+
+    Consistem basicamente no reaproveitamento de partes previamente desenvolvidas
+    qualificadas e armazenadas. 
+    Para reusar um software, não é necessario usar o código do mesmo obrigatoriamente,
+    Também pode ser utilizada a ideia ou a arquitetura do mesmo.
+
+Plataformas comumente utilizadas
+    
+    Várias plataformas de controle de versão de softwares open source são utilizadas para encontrar códigos que podem servir para o seu projeto.
+    Exemplos como Github, Gitlab e Bitbucket, são muito utilizados para importação de bibliotecas open source práticas e funcionais.
+
+Em comparação com outros tipos de engenharia de software
+
+
+Benefícios
+
+    Confiança Aumentada
+        Softwares reusados que foram testados e aprovados em sistemas em funcionamento são mais confiaveis do que um software novo.
+
+    Risco de Processo Reduzido 
+        Uma vez que boas partes do software são reusadas, é mais facil calcular custos de processo, já que o custo dos softwares é conhecido, o 
+        que diminui a margem de erro.
+        
+    Uso Eficaz de Especialistas
+        Ao invés de repetir o mesmo trabalho, desenvolvedores experientes podem desenvolver codigos reusaveis que englobem o seu conhecimento
+
+    Conformidade com Padrões
+        Alguns padrões como UI podem ser desenvolvidos como módulos reutilizaveis. O uso de Interfaces padrão nas aplicações melhora a confiança dos 
+        usuários, já que diminui a quantidade de erros que o mesmo comete por ser apresentado a interfaces familiares.
+
+    Desenvolvimento Acelerado
+        O reuso de um software acelera o tempo de desenvolvimento e entrega de uma aplicação, pois pode reduzir o tempo de desenvolvimento e validação.
+
+Problemas
+
+    Maiores Custos de Manutenção    
+        Caso o código fonte de um sistema reusavel não esteja disponível, o custo da manutenção ser maior pelo fato dos elementos reusados do sistema
+        não são compatveis com atualizações 
+
+    Falta de Ferramentas de Suporte
+        Algumas ferramentas de desenvolvimento podem não suportar o desenvolvimento com reuso. O processo assumido por essas ferramentas pode não
+        considerar o reuso, dificultando a implementação.
+
+    Sindrome do "Nao-inventaram-aqui"
+        Alguns engenheiros de softare preferem reescrever componentes, por acreditar que é possivel melhorá-los. Isso tem a ver, parcialmente, com a falta de confiança
+        em softwares que não são originais do proprio.
+
+    Criação e Manutenção de uma Biblioteca
+        Criar uma biblioteca de componentes reutilizaveis é um processo caro e trabalhoso, já que é necessário um processo de desenvolvimento personalizado 
+        para que seja possivel utilizar a biblioteca.
+
+    Encontrar, Entender e Adaptar Componentes Reusaveis
+        Muitos componentes precisam ser descobertos, entendidos, e muitas vezes, adaptados para poderem ser utilizados em projetos variados.
