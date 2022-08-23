@@ -2,7 +2,7 @@
   - Aqui vou deixar anotado o que falta pra fazermos
  
 Tópicos
-  Pesquisar sobre os prós e contras da Eng. de Software de Reuso
+  
   Encontrar fontes Confiaveis
   Formar uma estrutura e um roteiro dos tópicos que vamos abordar
   
@@ -11,10 +11,11 @@ Tópicos
   pesquisar sobre os pros e contras do desenv gup
   
   Montar argumentos contra os  outros métodos
-  montar argumentos á favor da eng de software de reuso
+  montar argumentos a favor da eng de software de reuso
   montar argumentos pra defesa contra outras eng.
   
  Feito //Aqui marcar o que já foi feito
+ OK - Pesquisar sobre os prós e contras da Eng. de Software de Reuso
  
  
   
